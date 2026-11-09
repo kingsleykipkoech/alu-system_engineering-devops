@@ -15,3 +15,4 @@ This project covers the fundamentals of SSH (Secure Shell), public/private key p
 
 * **3. Let me in!**
   * Added Sylvain Kalache's public SSH key to the server's `~/.ssh/authorized_keys`.
+
